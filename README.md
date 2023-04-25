@@ -1,23 +1,6 @@
 # Java Presentation
 # Resources for Competitive Programming, Interview Prep, System Design, & Problem Solving
 
-## Connect with me
-  <a href="https://twitter.com/aniketshr">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
-  </a>&ensp;
-  <a href="https://www.linkedin.com/in/aniketraz">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-  </a>&ensp;
-  <a href="https://www.instagram.com/kashyapshr">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
-  </a>&ensp;
-  <a href="https://discord.io/aniketraj#3574">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" />
-  </a>&ensp;
-    <a href="https://t.me/kashyapshr">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" />
-  </a> 
-  
 
 ## Problems & Tips
 - [DP Questions](https://atcoder.jp/contests/dp/tasks)
@@ -43,3 +26,21 @@
 - [interviewing.io](https://interviewing.io)
 - [12 Week Programme - Leetcode](https://docs.google.com/document/d/1wUCqhVHydWiDk6FJdFLSMpgigNrGcs4OFZg0Wa7JGEw/)
 
+
+## Connect with me
+  <a href="https://twitter.com/aniketshr">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
+  </a>&ensp;
+  <a href="https://www.linkedin.com/in/aniketraz">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+  </a>&ensp;
+  <a href="https://www.instagram.com/kashyap.shr">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+  </a>&ensp;
+  <a href="https://discord.io/aniketraj#3574">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" />
+  </a>&ensp;
+    <a href="https://t.me/kashyapshr">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" />
+  </a> 
+  
