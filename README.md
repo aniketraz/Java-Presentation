@@ -1,4 +1,4 @@
-# Java Prasentation 
+# Java Presentation
 # Resources for Competitive Programming, Interview Prep, System Design, & Problem Solving
 
 ## Connect with me
