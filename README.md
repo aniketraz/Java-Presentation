@@ -27,20 +27,7 @@
 - [12 Week Programme - Leetcode](https://docs.google.com/document/d/1wUCqhVHydWiDk6FJdFLSMpgigNrGcs4OFZg0Wa7JGEw/)
 
 
-## Connect with me
-  <a href="https://twitter.com/aniketshr">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
-  </a>&ensp;
-  <a href="https://www.linkedin.com/in/aniketraz">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-  </a>&ensp;
-  <a href="https://www.instagram.com/kashyap.shr">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
-  </a>&ensp;
-  <a href="https://discord.io/aniketraj#3574">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" />
-  </a>&ensp;
-    <a href="https://t.me/kashyapshr">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" />
-  </a> 
-  
+## Pondicherry University Website
+  <a href="https://www.pondiuni.edu.in/">
+    <img width="30px" src="https://www.pondiuni.edu.in/wp-content/uploads/2020/10/PU_Logo-white-150x150.png" />
+ 
